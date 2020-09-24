@@ -11,10 +11,7 @@
 
 ---
 
-![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api?username=spicycoder&show_icons=true&theme=dracula)
-
-![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&layout=compact&theme=radical)
-
-![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&repo=github-readme-stats&theme=radical)
+| ![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&layout=compact&theme=radical) | ![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api?username=spicycoder&show_icons=true&theme=dracula) | ![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&repo=github-readme-stats&theme=radical) |
+| -- | -- | -- |
 
 ---
