@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Naveen 👋
 
-<!--
-**spicycoder/spicycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I wear multiple hats, Software Engineer, QA, DevOps Engineer, Cloud Architect!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **AI / ML**
+- 💬 Talk to me about Super Heros, Marvel / DC, anything!
+- 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    | [Linkedin](https://www.linkedin.com/in/spk2naveen/) | [Twitter](https://twitter.com/spk2naveen) | [Portfolio](https://naveen-kumar.netlify.app) |
+    | -- | -- | -- |
+
+---
+
+![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api?username=spicycoder&show_icons=true&theme=dracula)
+
+![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&layout=compact&theme=radical)
+
+![SpicyCoder's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spicycoder&repo=github-readme-stats&theme=radical)
+
+---
