@@ -15,3 +15,7 @@
 | -- | -- | -- |
 
 ---
+
+![SpicyCoder](https://i.imgur.com/VssOcYs.jpg)
+
+---
