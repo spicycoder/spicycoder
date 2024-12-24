@@ -2,10 +2,8 @@
 
 ## I wear multiple hats, Software Engineer, QA, DevOps Engineer, Cloud Architect!
 
-- 🌱 I’m currently learning to build microservices, using [Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/) & [Dapr](https://dapr.io/)
-- 💬 Talk to me about Super Heros 🦸🏼, Marvel / DC, anything!
+- 🌱 I’m currently learning to build cloud native, distributed applications using [Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/) & [Dapr](https://dapr.io/)
 - 📫 How to reach me:
-
     | [Linkedin](https://www.linkedin.com/in/spk2naveen/) | [Twitter](https://twitter.com/spk2naveen) | [About Me](https://naveenkumar.vercel.app) |
     | -- | -- | -- |
 
